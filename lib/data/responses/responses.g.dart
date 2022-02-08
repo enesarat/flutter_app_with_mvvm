@@ -37,7 +37,7 @@ ContactResponse _$ContactResponseFromJson(Map<String, dynamic> json) {
   return ContactResponse(
     json['phone'] as String?,
     json['link'] as String?,
-    json['email'] as int?,
+    json['email'] as String?,
   );
 }
 
