@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:complete_flutter_app/domain/model.dart';
+import 'package:complete_flutter_app/domain/model/model.dart';
 import 'package:complete_flutter_app/presentation/base/baseviewmodel.dart';
 import 'package:complete_flutter_app/presentation/resources/string_manager.dart';
 

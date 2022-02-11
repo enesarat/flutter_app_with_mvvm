@@ -3,7 +3,7 @@
 
 import 'package:complete_flutter_app/app/extensions.dart';
 import 'package:complete_flutter_app/data/responses/responses.dart';
-import 'package:complete_flutter_app/domain/model.dart';
+import 'package:complete_flutter_app/domain/model/model.dart';
 
 const EMPTY ="";
 const ZERO =0;

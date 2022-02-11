@@ -1,4 +1,4 @@
-import 'package:complete_flutter_app/domain/model.dart';
+import 'package:complete_flutter_app/domain/model/model.dart';
 import 'package:complete_flutter_app/presentation/onboarding/onboarding_viewmodel.dart';
 import 'package:complete_flutter_app/presentation/resources/color_manager.dart';
 import 'package:complete_flutter_app/presentation/resources/routes_manager.dart';
